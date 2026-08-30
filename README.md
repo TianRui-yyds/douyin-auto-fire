@@ -84,6 +84,12 @@ tzdata>=2025.2
 - 如果 Cookie / Storage State 失效或抖音要求验证码，需要本人重新完成登录验证。
 - 抖音网页结构发生变化时，自动化功能可能需要同步适配。
 
+⭐ 支持一下
+
+如果这个项目帮你省下了每天手动续火花的时间，欢迎点个 Star ⭐ 支持一下！
+
+你的每一个 Star 都是我继续维护、修 Bug 和增加新功能的动力。
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=unmev%2Fdouyin-auto-fire&type=date&legend=top-left">
@@ -100,4 +106,8 @@ tzdata>=2025.2
 
 ## License
 
-本项目采用 [MIT License](LICENSE)。
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)。
+
+允许个人学习、研究、修改和非商业用途使用本项目；未经授权，不得将本项目或其衍生版本用于商业用途、收费服务、付费部署、倒卖或其他营利性场景。
+
+如需商业授权，请联系项目维护者。
